@@ -1,1 +1,2 @@
-export const market = [];
+import { IProduct } from "./interfaces";
+export const market: IProduct[] = [];
